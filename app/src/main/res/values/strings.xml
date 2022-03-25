@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WorkoutsCardio</string>
+    <string name="videoview">videoview</string>
+    <string name="playicon">playicon</string>
+    <string name="favourite">favourite</string>
+    <string name="cardio_knock_out">Cardio: Knock Out</string>
+    <string name="_5_min">5 min</string>
+    <string name="_25_5k">25.5k</string>
+    <string name="in_this_course_i_will_take_you_through_the_process_of_becoming_a_fitness_expert_step_by_step_you_will_learn_everything_you_need_to_know_about_the_fundamentals_of_good_training_programs_and_how_to_design_your_very_own_for_you_or_your_clients">In this course I will take you through the process of becoming a fitness expert step by step. You will learn everything you need to know about the fundamentals of good training programs and how to design your very own for you or your clients.</string>
+    <string name="share">share</string>
+    <string name="sorry_this_video_cannot_be_played">Sorry this video can\'t be played</string>
+    <string name="fullscreen">fulscreen</string>
+    <string name="title_activity_video">ActivityVideo</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="trending">Trending</string>
+
+</resources>
